@@ -1,0 +1,12 @@
+.slide {
+    position: relative;
+}
+.canvas {
+    position: absolute;
+    left: 0;
+}
+.slide-bar {
+    position: absolute;
+    width: 100%;
+    top: 520px;
+}
